@@ -1,0 +1,122 @@
+h1 {
+	color: #0262FF;
+	font-size: 40px;
+	font-family: calibri;
+}
+
+#photo1 {
+	background: white;
+	border-radius: 50%;
+}
+
+#text1 {
+	font-family: roboto;
+	font-size: 20px;
+}
+
+#fiche1 {
+	background: white;
+	margin: 50px;
+	box-shadow: 0px 10px 30px rgba(2, 98, 255, 0.65);
+	border-radius: 60px;
+    padding: 50px;
+    text-align: center;
+}
+
+
+a {
+	text-decoration: none;
+	color: #0262FF;
+	font-weight: bold;
+	font-size: 20px;
+    font-family: calibri;
+}
+
+#intro {
+    background: white;
+	margin: 50px;
+	box-shadow: 0px 10px 30px rgba(2, 98, 255, 0.65);
+	border-radius: 60px;
+    padding: 50px;
+}
+
+h2 {
+	color: #0262FF;
+	font-size: 30px;
+	font-family: calibri;
+}
+
+#text2 {
+	font-family: calibri;
+	font-size: 20px;
+}
+
+h3 {
+	color: #0262FF;
+	font-size: 30px;
+	font-family: calibri;
+}
+
+#text3 {
+	font-family: calibri;
+	font-size: 20px;
+}
+
+#US {
+    background: white;
+	margin: 50px;
+	box-shadow: 0px 10px 30px rgba(2, 98, 255, 0.65);
+	border-radius: 60px;
+    padding: 50px;
+}
+
+h4 {
+	color: #0262FF;
+	font-size: 30px;
+	font-family: calibri;
+}
+
+#text4 {
+	font-family: calibri;
+	font-size: 20px;
+}
+
+#FR {
+    background: white;
+	margin: 50px;
+	box-shadow: 0px 10px 30px rgba(2, 98, 255, 0.65);
+	border-radius: 60px;
+    padding: 50px;
+}
+
+h5 {
+	color: #0262FF;
+	font-size: 30px;
+	font-family: calibri;
+}
+
+#text5 {
+	font-family: calibri;
+	font-size: 20px;
+}
+
+#text6 {
+	font-family: calibri;
+	font-size: 20px;
+}
+
+#text7 {
+	font-family: calibri;
+	font-size: 20px;
+}
+
+#boutique {
+    background: white;
+	margin: 50px;
+	box-shadow: 0px 10px 30px rgba(2, 98, 255, 0.65);
+	border-radius: 60px;
+    padding: 50px;
+}
+
+
+
